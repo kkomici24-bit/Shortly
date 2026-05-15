@@ -12,3 +12,11 @@ This repository contains my submission proof for the Udemy course **Build a URL 
 ## Certificate Screenshot
 
 ![Certificate screenshot](proof/url-shortener-certificate.jpeg)
+
+## Optional Side Project
+
+I also built a small side project while following the course:
+
+- `PracticeProjects/SlugLab`
+
+It is a simple C# console practice app for slug generation, short-link creation, and click-count simulation.
